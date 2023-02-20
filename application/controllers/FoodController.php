@@ -7,6 +7,8 @@ class FoodController extends CI_Controller {
 	{
         // echo $this->load->view('mobile_page');
 
+		// test commit 
+
         $data = array();
 		$this->load->view('layout/nabar');
 		// $this->load->view('mobilePgae',$data);
